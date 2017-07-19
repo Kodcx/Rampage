@@ -1,3 +1,3 @@
 # Rampage
 
-ir a repo to store thing, ideas, lessons of a foundational nature. 
+Is a repo to store thing, ideas, lessons of a foundational nature. 
